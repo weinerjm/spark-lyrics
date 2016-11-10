@@ -1,0 +1,5 @@
+*.txt
+*.log
+data/
+data_test/
+metastore_db/
