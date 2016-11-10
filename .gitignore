@@ -1,5 +1,6 @@
 *.txt
 *.log
+.ipynb_checkpoints/
 data/
 data_test/
 metastore_db/
